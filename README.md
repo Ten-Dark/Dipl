@@ -35,3 +35,4 @@ This application was built publicly with the entire build process avaiable on Yo
 - Initialize the database with the queries found in `packages/server/database.sql`
 - Note: all environment variables must be defined in a file named `.env`
 - Run `yarn dev:server` and `yarn dev:client`
+# Dipl
